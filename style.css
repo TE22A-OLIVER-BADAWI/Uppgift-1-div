@@ -1,0 +1,38 @@
+.Top{
+    border: 5px solid red;
+    min-height: 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    font-family: monospace;
+    font-size: 20px;
+}
+h1{
+    background-color: aqua;
+    border: 5px solid black;
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div{
+    width: 80%;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+#V{min-width: 49%;
+align-items: center;
+background-color: burlywood;}
+#Helmut{
+    min-width: 49%;
+    align-items: center;
+    background-color: crimson;
+}
+#K{border: 5px solid yellow;}
